@@ -36,7 +36,7 @@ export const manufacturers = [
   "Ram",
   "Rolls-Royce",
   "Subaru",
-  "Tesla",
+  // "Tesla",
   "Toyota",
   "Volkswagen",
   "Volvo",
